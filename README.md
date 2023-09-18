@@ -328,6 +328,129 @@ https://www.interviewbit.com/spring-interview-questions/
 
 
  
+----------------------------
+https://docs.google.com/document/d/1r382BLNmf1f36q-BSQCKb5cjw12GKY3mh8XGv-75ASI/edit
+
+This is a definitive roadmap of system design for software engineers with no prior experience on the subject.
+
+At the end of this article, you will be confident about cracking system design interviews with a roadmap of different topics and questions.
+
+Why System Design?
+
+Large companies have large user bases. These users are spread across the world, and expect their web requests to be loaded quickly and reliably. 
+
+Keeping users happy is directly proportional to company revenue. Hence, it makes sense for a company to build its computer systems so they may continue to function despite problems:
+
+Disasters (Tsunami, Fire, etc.)
+Power outages (Legal issues, bill payments, etc.)
+Hardware failures (Computer crashes, clock skew, etc.)
+Software Failures (Incompatible upgrades, OS fault, etc.)
+
+As an engineer, it's our job to expect and mitigate these problems. Instead of fixing issues reactively, system design solves these problems proactively. 
+
+Even before a single line of code is written, the engineers discuss how to meet requirements, the possible problems that can occur, and how to tackle them.
+
+In short, billions of dollars are on the line, because trusted websites get happy customers!
+
+Where do I start with System Design?
+
+CAUTION: Don't hunt all the "How to Start" videos before you start! When you come across something you don't know, study it in depth and return to the topic.
+
+For search trees with infinite depth, DFS is more efficient than BFS!
+
+The following plan will set you on the path to mastering these best software engineering practices, which is also known as system design:
+1. Basics
+What is System Design?
+Horizontal vs. Vertical Scaling
+What is Capacity Estimation?
+What is HTTP?
+What is the Internet TCP/IP stack?
+What happens when you enter Google.com?
+What are Relational Databases?
+What are Database Indexes?
+What are NoSQL databases?
+What is a Cache?
+What is Thrashing?
+What are Threads?
+2. Load Balancing
+What is Load Balancing?
+What is Consistent Hashing?
+What is Sharding?
+3. DataStores
+What are Bloom Filters?
+What is Data Replication?
+How are NoSQL databases optimized?
+What are Location-based Databases?
+Database Migrations
+4. Consistency vs. Availability
+What is Data Consistency?
+Data Consistency Levels
+Transaction Isolation Levels
+5. Message Queues
+What is a Message Queue?
+What is the publisher-subscriber model?
+What are event-driven systems?
+Database as a Message Queue
+6. DevOps Concepts
+What is a Single Point of Failure?
+What are Containers?
+What is Service Discovery and Heartbeats?
+How to avoid Cascading Failures?
+Anomaly Detection in Distributed Systems
+Distributed Rate Limiting
+7. Caching
+What is Distributed Caching?
+What are Content Delivery Networks?
+Write Policies
+Replacement Policies
+8. Microservices
+Microservices vs. Monoliths
+How monoliths are migrated
+Demonstration of Microservices (with CODE)
+9. API Gateways
+How are APIs designed?
+What is an API Gateway?
+What are asynchronous APIs?
+10. Authentication Mechanisms
+OAuth
+Token Based Auth
+Access Control Lists and Rule Engines
+11. System Design Tradeoffs
+Pull vs. Push
+Memory vs. Latency
+Throughput vs. Latency
+Consistency vs. Availability
+Latency vs. Accuracy
+SQL vs. NoSQL databases
+12. Practice Problems
+System Design of a Live-Streaming App
+System Design of Instagram
+System Design of Tinder
+System Design of WhatsApp
+System Design of TikTok 
+System Design of an Online Coding Judge - Part 1
+System Design of an Online Coding Judge - Part 2
+System Design of UPI Payments
+System Design of IRCTC
+System Design of Netflix Video Onboarding Pipeline
+System Design of Doordash
+System Design of Amazon Online Shops
+System Design of Google Maps
+System Design of Gmail
+System Design of a Chess Website
+System Design of Uber
+System Design of Google Docs
+12. Additional Resources
+InterviewReady Course (use coupon: TAKEUFORWARD)
+GitHub Page
+Designing Data-Intensive Applications
+Summary
+
+Every search on Google, every message on WhatsApp, and every App Update is the result of thousands of engineers' efforts.
+
+These engineers have found common best practices that help them handle millions of user requests in real time.
+
+All the best!
 
 
 
