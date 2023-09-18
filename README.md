@@ -12,6 +12,7 @@ https://www.udemy.com/course/datastructurescncpp/learn/lecture/13259628?start=45
 https://get.interviewready.io/learn/system-design-course/audio_search_engine/design_an_algorithm
 
 https://docs.google.com/document/d/1r382BLNmf1f36q-BSQCKb5cjw12GKY3mh8XGv-75ASI/edit
+https://docs.google.com/document/d/1zBpN1e7MCQgkIQsQhYTz-48Asvm6iJuY-Qah-Opo5g4/edit
 
 
                                       Java 8 Concepts:    Daily 04:00 to 05:00
