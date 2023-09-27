@@ -31,12 +31,12 @@ https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/lea
  
  Builder Design patterns https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
 
-**Structural Design Patterns: **
+**Structural Design Patterns:**
 
 **Behavioural Design Patterns:**
 
 
-**REST**
+                                       REST
   
  Microservices
  
