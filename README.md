@@ -24,6 +24,18 @@ https://www.udemy.com/course/functional-programming-with-java/learn/lecture/1654
 
 https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8005706#overview 
 
+
+                                      Design Patterns:      Daily 04:00 to 06:00
+
+**Creational Design Patterns: **
+ 
+ Builder Design patterns https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
+
+**Structural Design Patterns: **
+
+**Behavioural Design Patterns:**
+
+
 **REST**
   
  Microservices
