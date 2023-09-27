@@ -27,7 +27,7 @@ https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/lea
 
                                       Design Patterns:      Daily 04:00 to 06:00
 
-**Creational Design Patterns: **
+**Creational Design Patterns:**
  
  Builder Design patterns https://howtodoinjava.com/design-patterns/creational/builder-pattern-in-java/
 
